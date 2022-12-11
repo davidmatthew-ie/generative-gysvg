@@ -1,0 +1,25 @@
+{
+  "name": "generative-gysvg",
+  "version": "1.0.0",
+  "description": "A gySVG plugin to add useful functionality for generative artists.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmatthew-ie/generative-gysvg.git"
+  },
+  "keywords": [
+    "svg",
+    "gysvg",
+    "generative",
+    "art"
+  ],
+  "author": "David Matthew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidmatthew-ie/generative-gysvg/issues"
+  },
+  "homepage": "https://github.com/davidmatthew-ie/generative-gysvg#readme"
+}
